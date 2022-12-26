@@ -9,7 +9,7 @@ Olá, bem vindo ao meu GitHub 👋
 
 ##
 
-![Snake animation](https://github.com/samirdourado/samirdourado/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samirdourado/commit-eating-snake-samirdourado/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
