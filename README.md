@@ -7,7 +7,7 @@ Olá, bem vindo ao meu GitHub 👋
   </a>
 </div>
 
-
+![Snake animation](https://github.com/samirdourado/samirdourado/blob/output/github-contribution-grid-snake.svg)
 
 
 
