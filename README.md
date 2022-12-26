@@ -2,8 +2,8 @@ Olá, bem vindo ao meu GitHub 👋
 
 <div align="left">
   <a href="https://github.com/samirdourado">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samirdourado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirdourado&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samirdourado&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirdourado&theme=light&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
