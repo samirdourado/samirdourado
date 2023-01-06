@@ -28,11 +28,6 @@ Atualmente estou estudando para <strong>Desenvolvedor Full Stack</strong>.
 </div>
 
 ##
-<p><strong>Commits Públicos</strong></p>
-
-![Snake animation](https://github.com/samirdourado/commit-eating-snake-samirdourado/blob/output/github-contribution-grid-snake.svg)
-
-##
 
 <strong>Me contrate:</strong><br>
 
