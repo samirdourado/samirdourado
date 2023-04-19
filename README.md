@@ -14,6 +14,7 @@ Atualmente estou estudando para <strong>Desenvolvedor Full Stack</strong>.
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+    <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=green" alt="Python">
     
 </div>
 
