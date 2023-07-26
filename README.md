@@ -1,7 +1,6 @@
 ### Olá, meu nome é Samir Dourado ! 🖖 <br> Bem vindo ao meu perfil do GitHub 😀
 <br>
-Estou buscando oportunidade para atuar como <strong>Desenvolvedor Front-End</strong>.<br>
-Atualmente estou estudando para <strong>Desenvolvedor Full Stack</strong>.
+Sou <strong>Desenvolvedor Full Stack</strong> e <strong>Designer Gráfico</strong>.
 
 ##
 
