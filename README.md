@@ -57,9 +57,4 @@ Me chamo Samir, sou desenvolvedor full-stack, atualmente estudo Ciência da Comp
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-## 📊 Github Stats
 
-<div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samirdourado&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirdourado&theme=light&hide_border=false&&layout=compact"/><br>
-</div>
