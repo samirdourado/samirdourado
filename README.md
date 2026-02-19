@@ -48,7 +48,7 @@ Me chamo Samir, sou desenvolvedor full-stack, atualmente estudo Ciência da Comp
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![Nest.js](https://img.shields.io/badge/nest.js-E7ECEB?style=for-the-badge&logo=nest&Color=3D5A7A)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
+![Solidity](https://img.shields.io/badge/Solidity-purple?style=flat-square&logo=solidity&logoColor=white&label=Contract&labelColor=%23DBA507&color=%237B1FA2)&nbsp;
 
 
 ### 🗄️ Banco de Dados
