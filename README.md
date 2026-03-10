@@ -1,5 +1,3 @@
-[Português](#pt-br) | [English](#en)
-
 <h1 align="center">
 Olá, meu nome é <br> Samir Dourado! 🖖
 </h1>
